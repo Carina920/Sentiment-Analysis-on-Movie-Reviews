@@ -1,4 +1,4 @@
-# Sentiment-Analysis-on-Movie-Reviews
+# Sentiment Analysis on Movie Reviews
 This repository contains materials for the DS 340W Team Project at Pennsylvania State University.
 
 ## Introduction
